@@ -5,7 +5,7 @@
 int main()
 {
     FILE *test;
-    test = fopen("test1.txt", "w");
+    test = fopen("Problem_1.txt", "w");
     if (test == NULL)
     {
         printf("File dose not exist\n");
